@@ -3,7 +3,7 @@ Desafio de Projeto sobre Git / GitHub
 # Minha Trajetória de Developer 💻
 ##### Me chamo Carlos Gabriel e sou estudante de desenvolvimento Front End.
 ##### *Aqui irei destacar alguns cursos que completei, imersões e bootcamps que participei.*
-![](https://blog.dankicode.com/wp-content/uploads/2018/05/como-se-tornar-um-desenvolvedor-front-end-380x249.png)
+![Developers Avante!](https://blog.dankicode.com/wp-content/uploads/2018/05/como-se-tornar-um-desenvolvedor-front-end-380x249.png)
 ## Cursos
 * Lógica de Programação
 * Git / GitHub
